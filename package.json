@@ -1,0 +1,21 @@
+{  
+	"name":"bijou",
+	"version":"0.1.0",
+	"description":"A small, lightly-opinionated CSS reset.",
+	"author":"Timothy Long",
+	"license":"MIT",
+	"main":"bijou.css",
+	"repository":{  
+		"type":"git",
+		"url":"https://github.com/timothylong/bijou.git"
+	},
+	"keywords":[  
+		"css reset",
+		"css",
+		"scss reset",
+		"scss",
+		"reset",
+		"bijou"
+	],
+	"homepage":"https://github.com/timothylong/bijou"
+}
