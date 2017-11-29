@@ -7,7 +7,7 @@
 	"main":"bijou.css",
 	"repository":{  
 		"type":"git",
-		"url":"https://github.com/timothylong/bijou.git"
+		"url":"https://github.com/timothylong/bijou.css.git"
 	},
 	"keywords":[  
 		"css reset",
@@ -17,5 +17,5 @@
 		"reset",
 		"bijou"
 	],
-	"homepage":"https://github.com/timothylong/bijou"
+	"homepage":"https://github.com/timothylong/bijou.css"
 }
