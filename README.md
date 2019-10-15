@@ -17,4 +17,4 @@ https://unpkg.com/bijou.css/bijou.css
 ## License
 
 [MIT](LICENSE.md)
-Copyright (c) 2017 Timothy Long
+Copyright (c) 2019 Timothy Long
