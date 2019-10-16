@@ -4,14 +4,14 @@ A small, lightly-opinionated CSS reset. — 553b gzipped.
 
 ## Usage
 
-[**npm**](https://www.npmjs.com)
+[**npm**](https://www.npmjs.com/package/bijou.css)
 ```sh
 npm install bijou.css
 ```
 
-[**unpkg**](https://unpkg.com)
+[**unpkg**](https://unpkg.com/bijou.css)
 ```sh
-https://unpkg.com/bijou.css/bijou.css
+https://unpkg.com/bijou.css
 ```
 
 ## License

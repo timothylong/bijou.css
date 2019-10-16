@@ -7,7 +7,7 @@
 	"main": "./dist/bijou.min.css",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/timothylong/bijou.css.git"
+		"url": "git+https://github.com/timothylong/bijou.css.git"
 	},
 	"keywords": [
 		"css reset",
@@ -16,5 +16,11 @@
 		"bijou",
 		"bijou.css"
 	],
-	"homepage": "https://github.com/timothylong/bijou.css"
+	"homepage": "https://github.com/timothylong/bijou.css",
+	"bugs": {
+		"url": "https://github.com/timothylong/bijou.css/issues"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
 }
