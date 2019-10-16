@@ -1,6 +1,6 @@
 {
 	"name": "bijou.css",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"description": "A small, lightly-opinionated CSS reset.",
 	"author": "Timothy Long",
 	"license": "MIT",
